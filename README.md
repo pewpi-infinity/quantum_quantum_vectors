@@ -81,3 +81,24 @@ Two concrete next build paths with reasoning.
 ### 🟧 Decisions
 Immediate next step and why it matters.
 
+
+---
+
+## 🧱 Research Notes (docs)
+**Timestamp:** 2025-12-23T10:56:18Z
+
+### 🟨 Extracted Data
+- Repo files: 5
+- Code present: 0
+
+### 🩷 Investigative
+What is missing, blocked, or undefined.
+
+### 🟩 Engineering / Tools
+What advances this repo fastest.
+
+### 🟥 Routes Worth More
+Two next build paths with reasoning.
+
+### 🟧 Decisions
+Immediate next step and why.
